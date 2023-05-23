@@ -169,7 +169,7 @@
 
 3. 각 키워드마다 선 생성한 제목 키워드 리스트에서 랜덤하게 제목 단어들, 내용 문단들을 가져와 분석 결과의 제목과 내용 생성
 
-<img src="./images/image_gen.png">
+<img src="https://github.com/Ninucco/.github/blob/main/profile/images/image_gen.png?raw=true">
 
 ## 6. ERD
 
