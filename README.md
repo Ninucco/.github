@@ -1,6 +1,6 @@
 # 니,누꼬? (𝑵𝒊𝒏𝒖𝒄𝒄𝒐)
 
-![타이틀 이미지](./images/preview.png)
+![타이틀 이미지](https://github.com/Ninucco/.github/blob/main/profile/images/preview.png?raw=true)
 
 <br />
 
@@ -117,7 +117,7 @@
 
 ## 3. 시스템 아키텍처
 
-![structure_diagram](./images/structure_diagram.png)
+![structure_diagram](https://github.com/Ninucco/.github/blob/main/profile/images/structure_diagram.png?raw=true)
 
 ## 4. 개발 환경
 
@@ -173,7 +173,7 @@
 
 ## 6. ERD
 
-![MariaDB ERD](./images/ERD.png)
+![MariaDB ERD](https://github.com/Ninucco/Ninucco/assets/31383362/e5b61729-6bbc-4846-a33d-5afb33def313)
 
 ## 7. 서비스 및 기술 특장점
 
@@ -189,11 +189,11 @@
 
 4. 설계한 데이터베이스를 RDB와 NoSQL DB을 통해 구현했습니다.(기본: MariaDB, 검사 결과: MongoDB, 키워드-프롬프트, 한글 키워드, 제목과 내용 맵핑: Redis)
 
-6. Firebase를 통해 유저 보안을 꾀했습니다. 또한 익명 로그인 기능을 통해 로그인하지 않고도 일부 기능을 이용할 수 있습니다.
+5. Firebase를 통해 유저 보안을 꾀했습니다. 또한 익명 로그인 기능을 통해 로그인하지 않고도 일부 기능을 이용할 수 있습니다.
 
-7. 검사 결과를 카카오톡을 통해서 공유할 수 있습니다.
+6. 검사 결과를 카카오톡을 통해서 공유할 수 있습니다.
 
-8. 생성된 이미지를 통해서 다른 유저와 배틀을 할 수 있고, 배틀을 통해서 코인을 획득할 수 있습니다.
+7. 생성된 이미지를 통해서 다른 유저와 배틀을 할 수 있고, 배틀을 통해서 코인을 획득할 수 있습니다.
 
 ## 8. 멤버 및 역할
 
