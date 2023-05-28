@@ -15,8 +15,6 @@
 
 <br />
 
-> <br />
->
 > [0. 프로젝트 개요](#0-프로젝트-개요)
 >
 > [1. 서비스 및 기능 소개](#1-서비스-및-기능-소개)
@@ -41,8 +39,6 @@
 > [7. 서비스 및 기술 특장점](#7-서비스-및-기술-특장점)
 >
 > [8. 멤버 및 역할](#8-멤버-및-역할)
->
-> <br />
 
 <br />
 
@@ -199,17 +195,11 @@
 
 <table>
   <tr>
-  <td align="center">
-    <td align="center"><a href="https://github.com/TraceofLight"><img src="https://avatars.githubusercontent.com/u/98262849?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김희준 (FE)</b></sub></a><br /></td>
-  <td align="center">
-    <td align="center"><a href="https://github.com/IRyeong"><img src="https://avatars.githubusercontent.com/u/31383362?v=4?s=100" width="100px;" alt=""/><br /><sub><b>박이령 (FE)</b></sub></a><br /></td>
-  <td align="center">
-    <td align="center"><a href="https://github.com/S2Hyeon"><img src="https://avatars.githubusercontent.com/u/58657060?v=4?s=100" width="100px;" alt=""/><br /><sub><b>송승현 (BE)</b></sub></a><br /></td>
-  <td align="center">
-    <td align="center"><a href="https://github.com/developerhongjulee"><img src="https://avatars.githubusercontent.com/u/70627908?v=4?s=100" width="100px;" alt=""/><br /><sub><b>이홍주 (BE)</b></sub></a><br /></td>
-  <td align="center">
-    <td align="center"><a href="https://github.com/v7153623"><img src="https://avatars.githubusercontent.com/u/71223238?v=4?s=100" width="100px;" alt=""/><br /><sub><b>장인혁 (BE)</b></sub></a><br /></td>
-  <td align="center">
-    <td align="center"><a href="https://github.com/hi6724"><img src="https://avatars.githubusercontent.com/u/68803719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>하훈목 (FE, 팀장)</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/TraceofLight"><img src="https://avatars.githubusercontent.com/u/98262849?v=4?s=100" width="100px;" alt=""/><br /><sub><b>김희준 (FE)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/IRyeong"><img src="https://avatars.githubusercontent.com/u/31383362?v=4?s=100" width="100px;" alt=""/><br /><sub><b>박이령 (FE)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/S2Hyeon"><img src="https://avatars.githubusercontent.com/u/58657060?v=4?s=100" width="100px;" alt=""/><br /><sub><b>송승현 (BE)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/developerhongjulee"><img src="https://avatars.githubusercontent.com/u/70627908?v=4?s=100" width="100px;" alt=""/><br /><sub><b>이홍주 (BE)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/v7153623"><img src="https://avatars.githubusercontent.com/u/71223238?v=4?s=100" width="100px;" alt=""/><br /><sub><b>장인혁 (BE)</b></sub></a></td>
+    <td align="center"><a href="https://github.com/hi6724"><img src="https://avatars.githubusercontent.com/u/68803719?v=4?s=100" width="100px;" alt=""/><br /><sub><b>하훈목 (FE, 팀장)</b></sub></a></td>
   </tr>
 </table>
